@@ -1,2 +1,2 @@
 test
-merge2 merge test
+merge2 merge test master
